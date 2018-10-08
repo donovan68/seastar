@@ -28,6 +28,7 @@ dependencies:
         "cmake",
         "libyaml-cpp-dev"
     ]
+
 matrix:
     include:
       # GCC 7, DPDK enabled
